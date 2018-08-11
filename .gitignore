@@ -1,0 +1,4 @@
+*.iml
+.idea/
+qiniu-spring-boot-starter-autoconfigure/target/
+qiniu-spring-boot-starter/target/
